@@ -55,7 +55,7 @@ class viewtab extends StatelessWidget {
                               Icons.search,
                               color: Colors.grey,
                             ),
-                            hintText: 'Bouddha, Kathmandu',
+                            hintText: 'Kakkanad, Kochi',
                             hintStyle: TextStyle(color: Colors.grey),
                             fillColor: Colors.white,
                             filled: true,
